@@ -43,3 +43,6 @@ if agree:
     correlation= df.select_dtypes("number").corr()
     sns.heatmap(correlation, annot= True, cmap="coolwarm")
     st.pyplot(plt)
+
+
+st.page_link("https://github.com/mohamedachem-droid/quete1.2-streamlit", label="Code Source", icon=":material/code_blocks:")
