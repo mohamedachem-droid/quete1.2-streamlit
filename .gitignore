@@ -1,0 +1,10 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+
+quete_1.1.py
+share/
+Scripts/
+quete/
+pyvenv.cfg
+Lib/
+Include/
+etc/
